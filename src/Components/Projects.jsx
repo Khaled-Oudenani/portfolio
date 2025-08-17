@@ -8,7 +8,7 @@ const projects_data = [
     name: "Animes",
     description: " a website for watching Animes trailer and description",
     image: anim,
-    link: "https://mellow-raindrop-07c8c1.netlify.app/",
+    link: "https://khaled-animes.netlify.app",
   },
   {
     id: 2,
