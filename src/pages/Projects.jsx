@@ -61,7 +61,7 @@
 // export default Projects;
 import React from "react";
 import ProjectCard from "../components/ProjectCard";
-import kids from "../assets/kids.png";
+import kids from "../assets/Kids.png";
 import foody from "../assets/foody.png";
 import animes from "../assets/animes.png";
 import { motion } from "framer-motion";
