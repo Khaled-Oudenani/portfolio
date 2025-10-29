@@ -1,9 +1,9 @@
 import React from "react";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
-import Projects from "./pages/projects";
+import Projects from "./pages/Projects";
 import Contact from "./pages/Contact";
 
 const App = () => {
