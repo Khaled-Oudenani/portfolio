@@ -64,7 +64,7 @@ const About = () => {
           a strong focus on creating modern, responsive, and user-friendly web
           applications.
         </p>
-        <p className="max-w-3xl mx-auto mt-3 text-lg leading-relaxed text-gray-300">
+        <p className="max-w-3xl mx-auto mt-3 text-lg leading-relaxed text-gray-400">
           Specializing in the MERN stack and network security.
         </p>
       </motion.div>
